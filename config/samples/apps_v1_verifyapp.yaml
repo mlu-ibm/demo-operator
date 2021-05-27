@@ -1,0 +1,7 @@
+apiVersion: apps.ibm.com/v1
+kind: VerifyApp
+metadata:
+  name: verifyapp-sample
+spec:
+  # Add fields here
+  foo: bar
